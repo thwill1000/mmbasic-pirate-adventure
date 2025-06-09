@@ -1,0 +1,2036 @@
+* Welcome to 'Pirate Adventure' by Scott & Alexis Adams. *
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Bottle of rum
+  Rug
+  Non-slip sneakers
+<------------------------------------------------------------------------------>
+
+What shall I do ? *more off
+OK.
+
+What shall I do ? *walk
+Password? L0nGJ0hn!789
+
+What shall I do ? # 27-09-2020 14:23:26
+
+What shall I do ? # Walkthrough
+
+What shall I do ? get rum
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+  Non-slip sneakers
+<------------------------------------------------------------------------------>
+
+What shall I do ? wear sneakers
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? go stair
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Books in a bookcase
+<------------------------------------------------------------------------------>
+
+What shall I do ? get book
+There's a strange sound.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? go passage
+OK.
+
+I'm in a secret passageway.
+Obvious exits: East, West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go east
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Unlit torch
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? open bag
+Something falls out.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Unlit torch
+  Matches
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? get matches
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Unlit torch
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? get torch
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a secret passageway.
+Obvious exits: East, West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? go window
+OK.
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Small ship's keel and mast
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop sneakers
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Small ship's keel and mast
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Small ship's keel and mast
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? go shack
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Wicked looking pirate
+  Treasure chest
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? give rum
+OK.
+The pirate grabs the rum and scuttles off chortling.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Treasure chest
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Treasure chest
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm at the foot of a cave ridden hill. A path leads to the top.
+Obvious exits: West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go path
+OK.
+
+I'm on top of a hill. Below is Pirate's Island. Across the sea off in the 
+distance I can see *TREASURE* Island.
+Obvious exits: Down.
+Visible items: 
+  Rock wall with a narrow crack in it
+<------------------------------------------------------------------------------>
+
+What shall I do ? light torch
+The torch is lit.
+
+I'm on top of a hill. Below is Pirate's Island. Across the sea off in the 
+distance I can see *TREASURE* Island.
+Obvious exits: Down.
+Visible items: 
+  Rock wall with a narrow crack in it
+<------------------------------------------------------------------------------>
+
+What shall I do ? light torch
+I can't do that yet.
+
+What shall I do ? go crack
+It was a tight squeeze!
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Pile of sails
+  Pile of precut lumber
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? go shed
+OK.
+
+I'm in a Tool shed.
+Obvious exits: North.
+Visible items: 
+  Claw hammer
+  Shovel
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? take hammer
+OK.
+
+I'm in a Tool shed.
+Obvious exits: North.
+Visible items: 
+  Shovel
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? take winds
+OK.
+
+I'm in a Tool shed.
+Obvious exits: North.
+Visible items: 
+  Shovel
+<------------------------------------------------------------------------------>
+
+What shall I do ? n
+OK.
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Pile of sails
+  Pile of precut lumber
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? get sails
+OK.
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Pile of precut lumber
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? go crack
+OK.
+
+I'm on top of a hill. Below is Pirate's Island. Across the sea off in the 
+distance I can see *TREASURE* Island.
+Obvious exits: Down.
+Visible items: 
+  Rock wall with a narrow crack in it
+<------------------------------------------------------------------------------>
+
+What shall I do ? unlight torch
+OK.
+
+What shall I do ? d
+OK.
+
+I'm at the foot of a cave ridden hill. A path leads to the top.
+Obvious exits: West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Small ship's keel and mast
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop torch
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Small ship's keel and mast
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop matches
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop sails
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop wings
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Nothing happens.
+
+What shall I do ? get book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get sneakers
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go window
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? go passage
+OK.
+
+I'm in a secret passageway.
+Obvious exits: East, West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Empty bottle
+  Sleeping pirate
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? wake pirate
+The pirate awakens and says 'Aye Matey, we be casting off soon.' He then 
+vanishes.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Empty bottle
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Empty bottle
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? take bottle
+OK.
+
+I'm in a musty attic.
+Obvious exits: West.
+Visible items: 
+  Pirate's duffel bag
+  Pieces of broken rum bottles
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a secret passageway.
+Obvious exits: East, West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? d
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? remove nails
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop hammer
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop bottle
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go window
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? d
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? get rug
+OK.
+There's a strange sound.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Ring of keys
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop rug
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+  Ring of keys
+<------------------------------------------------------------------------------>
+
+What shall I do ? get keys
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop sneakers
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop nails
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Unlit torch
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get torch
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get matches
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? light torch
+The torch is lit.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop matches
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get wings
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Empty bottle
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? get bottle
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? go lagoon
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? go north
+OK.
+
+I'm in the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Fish
+  Salt water
+<------------------------------------------------------------------------------>
+
+What shall I do ? get water
+OK.
+
+What shall I do ? get fish
+OK.
+
+I'm in the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Salt water
+<------------------------------------------------------------------------------>
+
+What shall I do ? s
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? s
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm at the foot of a cave ridden hill. A path leads to the top.
+Obvious exits: West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go cave
+OK.
+
+I'm in a maze of caves.
+Obvious exits: South, East, West, Down.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? d
+OK.
+
+I'm in a pit.
+Obvious exits: Up.
+Visible items: 
+  Mean and hungry looking crocodiles
+  Locked door
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop fish
+OK.
+The crocodiles eat the fish and leave.
+
+I'm in a pit.
+Obvious exits: Up.
+Visible items: 
+  Locked door
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop bottle
+OK.
+
+I'm in a pit.
+Obvious exits: Up.
+Visible items: 
+  Locked door
+  Bottle of salt water
+<------------------------------------------------------------------------------>
+
+What shall I do ? unlock door
+OK.
+
+I'm in a pit.
+Obvious exits: Up.
+Visible items: 
+  Open door with hall beyond
+  Bottle of salt water
+<------------------------------------------------------------------------------>
+
+What shall I do ? go hall
+OK.
+
+I'm in a Long hallway.
+Obvious exits: East.
+Visible items: 
+  Open door with a pit beyond
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Pile of precut lumber
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? go shed
+OK.
+
+I'm in a Tool shed.
+Obvious exits: North.
+Visible items: 
+  Shovel
+<------------------------------------------------------------------------------>
+
+What shall I do ? get shovel
+OK.
+
+I'm in a Tool shed.
+Obvious exits: North.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? n
+OK.
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Pile of precut lumber
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? get lumber
+OK.
+
+I'm in a Large cavern.
+Obvious exits: West.
+Visible items: 
+  Tool shed
+  Narrow crack in the rock
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a Long hallway.
+Obvious exits: East.
+Visible items: 
+  Open door with a pit beyond
+<------------------------------------------------------------------------------>
+
+What shall I do ? go pit
+OK.
+
+I'm in a pit.
+Obvious exits: Up.
+Visible items: 
+  Open door with hall beyond
+  Bottle of salt water
+<------------------------------------------------------------------------------>
+
+What shall I do ? u
+OK.
+
+I'm in a maze of caves.
+Obvious exits: South, East, West, Down.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm at the foot of a cave ridden hill. A path leads to the top.
+Obvious exits: West.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop torch
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Lit torch
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop lumber
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Pile of precut lumber
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Lit torch
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? go shack
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Treasure chest
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? unlock chest
+It's open.
+The parrot crys... 'Check the chest Matey.'
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? look chest
+There are a set of plans in it.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+  Set of plans
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+  Set of plans
+<------------------------------------------------------------------------------>
+
+What shall I do ? take plans
+OK.
+The parrot crys... 'Tides a changing Matey.'
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? look chest
+There's a map in it.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+  Map
+<------------------------------------------------------------------------------>
+
+What shall I do ? take map
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Lit torch
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Claw hammer
+  Nails
+  Pile of precut lumber
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop keys
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Ring of keys
+  Claw hammer
+  Nails
+  Pile of precut lumber
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? go lagoon
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  The tide is coming in
+  Flotsam and jetsam
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  The tide is coming in
+  Flotsam and jetsam
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  The tide is coming in
+  Flotsam and jetsam
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? take anchor
+Sorry, I can't.
+It's stuck in the sand.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  The tide is coming in
+  Flotsam and jetsam
+<------------------------------------------------------------------------------>
+
+What shall I do ? dig
+I didn't find anything.
+
+What shall I do ? dig
+I didn't find anything.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? get anchor
+Sorry, I can't.
+It's stuck in the sand.
+
+What shall I do ? dig anchor
+OK.
+
+What shall I do ? look
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  Rusty anchor
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? get anchor
+OK.
+
+I'm in a Shallow lagoon. To the north is the ocean.
+Obvious exits: North, South, East, West.
+Visible items: 
+  The tide is out
+<------------------------------------------------------------------------------>
+
+What shall I do ? i
+I'm carrying: 
+  Rusty anchor
+  Set of plans
+  Map
+  Shovel
+  Water wings
+
+What shall I do ? s
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Small ship's keel and mast
+  Pile of sails
+  Ring of keys
+  Claw hammer
+  Nails
+  Pile of precut lumber
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? make ship
+OK.
+Congratulations !!! But you adventure is not over yet...
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Ring of keys
+  Claw hammer
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop plans
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Ring of keys
+  Set of plans
+  Claw hammer
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop wings
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Ring of keys
+  Set of plans
+  Claw hammer
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Lit torch
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? go shack
+OK.
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Parrot
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? get parrot
+The parrot crys... 'Pieces of Eight.'
+
+I'm in a grass shack.
+Obvious exits: West.
+Visible items: 
+  Open treasure chest
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a meadow.
+Obvious exits: East, West.
+Visible items: 
+  Lit torch
+  Mongoose
+  Grass shack
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Ring of keys
+  Set of plans
+  Claw hammer
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get hammer
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Ring of keys
+  Set of plans
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get keys
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Set of plans
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? go ship
+OK.
+
+I'm aboard a pirate ship anchored off shore.
+Obvious exits: None.
+Visible items: 
+  Wicked looking pirate
+<------------------------------------------------------------------------------>
+
+What shall I do ? weigth anchor
+About twenty pounds. Tryss 'Set Sail'.
+
+What shall I do ? set sail
+After a month at sea we set anchor off of a sandy beach. All ashore who's going 
+ashore...
+
+What shall I do ? go beach
+The pirate follows you ashore as if he is waiting for something.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Wicked looking pirate
+  Pirate ship
+<------------------------------------------------------------------------------>
+
+What shall I do ? s
+OK.
+
+I'm in a Spooky old graveyard filled with piles of empty and broken rum bottles.
+Obvious exits: North, East.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? e
+OK.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Monastery
+<------------------------------------------------------------------------------>
+
+What shall I do ? read map
+It's a map to Treasure Island. At the bottom it says '30 paces and then dig!'
+
+What shall I do ? pace 30
+OK, I've walked off 30 paces.
+
+What shall I do ? dig
+I found something!
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? open box
+Something falls out.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  *Rare and priceless stamps*
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? take stamps
+I've too much to carry!
+
+What shall I do ? drop hammer
+OK.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Claw hammer
+  *Rare and priceless stamps*
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop keys
+OK.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Ring of keys
+  Claw hammer
+  *Rare and priceless stamps*
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? get stamp
+OK.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Ring of keys
+  Claw hammer
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? go mona
+OK.
+
+I'm in a Sacked and deserted monastery.
+Obvious exits: West.
+Visible items: 
+  *Doubloons*
+  Deadly mamba snakes
+<------------------------------------------------------------------------------>
+
+What shall I do ? release parrot
+OK.
+The parrot crys... 'Pieces of Eight.'
+The parrot attacks the snakes and drives them off.
+
+I'm in a Sacked and deserted monastery.
+Obvious exits: West.
+Visible items: 
+  *Doubloons*
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? get doub
+OK.
+
+I'm in a Sacked and deserted monastery.
+Obvious exits: West.
+Visible items: 
+  Parrot
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a Large barren field.
+Obvious exits: West.
+Visible items: 
+  Ring of keys
+  Claw hammer
+  Monastery
+  Plain wooden box
+<------------------------------------------------------------------------------>
+
+What shall I do ? w
+OK.
+
+I'm in a Spooky old graveyard filled with piles of empty and broken rum bottles.
+Obvious exits: North, East.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? n
+OK.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Wicked looking pirate
+  Pirate ship
+<------------------------------------------------------------------------------>
+
+What shall I do ? dig
+I found something!
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Wicked looking pirate
+  Pirate ship
+  Bottles of rum
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Wicked looking pirate
+  Pirate ship
+  Bottles of rum
+<------------------------------------------------------------------------------>
+
+What shall I do ? look
+OK.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Wicked looking pirate
+  Pirate ship
+  Bottles of rum
+<------------------------------------------------------------------------------>
+
+The pirate grabs the rum and scuttles off chortling.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Pirate ship
+  Bottles of rum
+<------------------------------------------------------------------------------>
+
+What shall I do ? s
+OK.
+
+I'm in a Spooky old graveyard filled with piles of empty and broken rum bottles.
+Obvious exits: North, East.
+Visible items: 
+  Sleeping pirate
+<------------------------------------------------------------------------------>
+
+What shall I do ? wake pirate
+The pirate awakens and says 'Aye Matey, we be casting off soon.' He then 
+vanishes.
+
+I'm in a Spooky old graveyard filled with piles of empty and broken rum bottles.
+Obvious exits: North, East.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? n
+OK.
+
+I'm on the beach at Treasure Island.
+Obvious exits: South.
+Visible items: 
+  Pirate ship
+  Bottles of rum
+<------------------------------------------------------------------------------>
+
+What shall I do ? go ship
+OK.
+
+I'm aboard a pirate ship anchored off shore.
+Obvious exits: None.
+Visible items: 
+  Wicked looking pirate
+<------------------------------------------------------------------------------>
+
+What shall I do ? set sail
+After a month at sea we set anchor off of a sandy beach. All ashore who's going 
+ashore...
+
+What shall I do ? go brach
+Give me a direction too.
+
+What shall I do ? go beach
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Set of plans
+  Pirate ship
+  Non-slip sneakers
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop shovel
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Set of plans
+  Pirate ship
+  Non-slip sneakers
+  Shovel
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get sneakers
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Large leather bound book
+  Matches
+  Set of plans
+  Pirate ship
+  Shovel
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? get book
+OK.
+
+I'm on a sandy beach on a tropical isle.
+Obvious exits: East.
+Visible items: 
+  Matches
+  Set of plans
+  Pirate ship
+  Shovel
+  Sand
+  Lagoon
+  Water wings
+<------------------------------------------------------------------------------>
+
+What shall I do ? yoho
+Everything spins around and suddenly you are elsewhere...
+
+I'm outside an open window on a ledge on the side of a very tall building.
+Obvious exits: None.
+Visible items: None.
+<------------------------------------------------------------------------------>
+
+What shall I do ? go window
+OK.
+
+I'm in an alcove.
+Obvious exits: Down.
+Visible items: 
+  Open window
+  Bookcase with a secret passage behind it
+<------------------------------------------------------------------------------>
+
+What shall I do ? go down
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop doub
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  *Doubloons*
+  Rug
+<------------------------------------------------------------------------------>
+
+What shall I do ? drop stamp
+OK.
+
+I'm in a flat in London.
+Obvious exits: None.
+Visible items: 
+  Flight of stairs
+  Sign on wall: 'Return *TREASURES* here and say SCORE'
+  *Doubloons*
+  Rug
+  *Rare and priceless stamps*
+<------------------------------------------------------------------------------>
+
+What shall I do ? score
+I've stored 2 of 2 treasures.
+On a scale of 0 to 100 that rates a 100.
+WELL DONE !!!
+The game is now over, would you like to play again [Y|n]? n
+
+                                    Goodbye!
